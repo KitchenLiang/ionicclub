@@ -1,10 +1,6 @@
 # Ioniclub App
 
-[![Join the chat at https://gitter.im/IonicChina/ioniclub](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/IonicChina/ioniclub?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-> [http://ionichina.com](http://ionichina.com) Ionichina社区客户端，采用Ionic Framework开发
-
-[![Download on the app store](https://devimages.apple.com.edgekey.net/app-store/marketing/guidelines/images/badge-download-on-the-app-store.svg)](https://itunes.apple.com/cn/app/id996999423)
 
 ## 快速开始
 
